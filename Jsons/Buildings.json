@@ -1,1 +1,16 @@
-
+[
+    {
+        "name": "xvekdkdnf",
+        "uniqueTo": "Babble",
+        "isWonder": "true",
+        "requiredTech": "Agriculture",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["Provides [1] [Uranium]",
+            "[+1 Culture, +1 Science, +1 Happiness, +1 Faith, +1 Gold, +20 Food, +1 Production] [in all cities]",
+            "Free [Dragon] appears",
+            "Gain a free [Monument] [in this city]",],
+        "quote": "'That's Interesting'"
+      
+    }
+]
