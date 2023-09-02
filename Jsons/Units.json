@@ -11,11 +11,21 @@
 		"unique": ["[+30]% Strength bonus for [Military] units within [3] tiles",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Uncapturable",
-			"Limited to [1] per Civilization",
+			"Limited to [2] per Civilization",
 			"Only available in capital",
 			"[+150]% XP gained from combat",
-			"Heals [50] damage if it kills a unit",
+			"Heals [50] damage if it kills a unit", "Can move after attacking", "Ignores terrain cost",
+			"Invisible to non-adjacent units",
+			"Can see invisible [Land] units",
+			"May enter foreign tiles without open borders",
+			"[+1] Sight",
+			"May withdraw before melee ([50]%)",
+			"[40]% chance to intercept air attacks",
+			"No defensive terrain bonus",
+			"May withdraw before melee ([50]%)",
+			"Ignores Zone of Control",
+			"Can carry [3] [Aircraft] units", "Can carry [2] [Missile] units", "+[50]% damage when attacking"]
 		"promotions": ["Logistics","Accuracy I","Discombobulation"],
-		"attackSound": "phasers"
+		"attackSound": "Machine Gun",
 	}
 ]
