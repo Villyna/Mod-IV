@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Babble",
+		"leaderName": "Incomprehensible",
+		"adjective": ["Gibberish"],
+		"startBias": ["desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We have reformed, and now come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation",
+		
+		"declaringWar": "I suggest that you surrender on the immediate! Resistance is futile!",
+		"attacked": "Dare to challenge the Wehrmacht? Come then and show me how you intend to do so!",
+		"defeated": "Fine! Fine! Enough! I surrender! Just leave my people be!",
+		"introduction": "As superior to you in all areas of advancement, i offer peace or obliteration",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Babbler",
+		"uniques": ["[All] units built in the capital will gain the [Discombobulation] promotion",
+		"The yield of all great improvements +[200]%","Luxury resource produced +[200]%",],
+		"cities": ["LugDiMang","Attiko","greisj","jejdbdjej","feirhd","wjekdk","wbjdo","xbdbdj","kzownfb","ciekd","cjoek","dn3io3","nfjd8","ek3ndi","odk2i","d9","fonrj3","9rkdm3j","9dofm3","jor9f","o4njro","doemend","i9dm2n","ifonrnf","ifoek"]
+	}
+]
