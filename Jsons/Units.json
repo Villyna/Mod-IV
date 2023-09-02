@@ -1,1 +1,16 @@
-
+[
+	{
+		"name": "Mobile Heavy X-II-3",
+		"unitType": "Ranged",
+		"uniqueTo": "Babble",
+		"movement": 5,
+		"strength": 900,
+		"rangedStrength": 360,
+		"range": 6,
+		"cost": 50000,
+		"requiredTech": "Future Tech",
+		"requiredResource": "Uranium",
+		"promotions": ["Logistics","Accuracy I","Discombobulation"],
+		"attackSound": "phasers"
+	}
+]
