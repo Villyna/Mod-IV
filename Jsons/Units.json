@@ -8,8 +8,13 @@
 		"rangedStrength": 360,
 		"range": 6,
 		"cost": 50000,
-		"requiredTech": "Future Tech",
-		"requiredResource": "Uranium",
+		"unique": ["[+30]% Strength bonus for [Military] units within [3] tiles",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"Uncapturable",
+			"Limited to [1] per Civilization",
+			"Only available in capital",
+			"[+150]% XP gained from combat",
+			"Heals [50] damage if it kills a unit",
 		"promotions": ["Logistics","Accuracy I","Discombobulation"],
 		"attackSound": "phasers"
 	}
